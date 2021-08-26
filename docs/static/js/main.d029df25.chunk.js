@@ -1,0 +1,2 @@
+(this["webpackJsonpapp-2"]=this["webpackJsonpapp-2"]||[]).push([[0],{9:function(e,t,n){"use strict";n.r(t);n(1);var c=n(3),s=n.n(c),i=n(0),o=function(){return Object(i.jsx)("div",{children:Object(i.jsx)("h1",{children:"Uitlizacion de Custom Hooks"})})};s.a.render(Object(i.jsx)(o,{}),document.getElementById("root"))}},[[9,1,2]]]);
+//# sourceMappingURL=main.d029df25.chunk.js.map
